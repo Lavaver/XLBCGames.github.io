@@ -30,6 +30,10 @@ window.Config = {
     {
       text: '回到资讯站',
       url: 'https://lavaver.github.io'
+    },
+    {
+      text: '备用镜像',
+      url: 'https://stats.uptimerobot.com/LOQKOiNX4y'
     }
   ]
 };
